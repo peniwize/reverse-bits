@@ -6,6 +6,7 @@
     Doc-tool: Doxygen (http://www.doxygen.com/)
 
     https://leetcode.com/problems/reverse-bits/
+    https://github.com/peniwize/reverse-bits.git
 */
 
 //!\sa https://github.com/doctest/doctest/blob/master/doc/markdown/main.md
